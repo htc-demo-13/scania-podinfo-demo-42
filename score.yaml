@@ -17,3 +17,5 @@ resources:
     properties:
       bucket:
       region:
+  other:
+    type: s3
